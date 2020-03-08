@@ -1,0 +1,12 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "AzureSignalRConnectionString": "Endpoint=https://biggypiggy.service.signalr.net;AccessKey=Vf0wlJjo5vh226KhD4eGDWb/XXw8QTHNv80ph4M4kYg=;Version=1.0;",
+    "FUNCTIONS_WORKER_RUNTIME": "node"
+  },
+  "Host": {
+    "LocalHttpPort": 7071,
+    "CORS": "http://localhost:8080,https://azure-samples.github.io",
+    "CORSCredentials": true
+  }
+}
